@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: josef.jilek.open_anime_diffusion.OpenAnimeDiffusionApplicati
+ on
+Class-Path: jackson-annotations-2.14.2.jar spring-security-crypto-6.0.2.
+ jar tomcat-embed-core-10.1.5.jar spring-aop-6.0.6.jar spring-test-6.0.6
+ .jar spring-boot-starter-tomcat-3.0.4.jar log4j-api-2.19.0.jar mockito-
+ core-4.8.1.jar spring-boot-starter-json-3.0.4.jar jakarta.annotation-ap
+ i-2.1.1.jar hamcrest-2.2.jar junit-jupiter-engine-5.9.2.jar xmlunit-cor
+ e-2.9.1.jar tomcat-embed-websocket-10.1.5.jar jackson-datatype-jsr310-2
+ .14.2.jar angus-activation-2.0.0.jar log4j-to-slf4j-2.19.0.jar micromet
+ er-commons-1.10.4.jar spring-beans-6.0.6.jar spring-security-web-6.0.2.
+ jar junit-platform-commons-1.9.2.jar logback-core-1.4.5.jar spring-boot
+ -starter-test-3.0.4.jar jakarta.xml.bind-api-4.0.0.jar spring-security-
+ core-6.0.2.jar spring-expression-6.0.6.jar spring-boot-starter-3.0.4.ja
+ r spring-boot-starter-web-3.0.4.jar jul-to-slf4j-2.0.6.jar logback-clas
+ sic-1.4.5.jar activation-1.1.jar junit-jupiter-params-5.9.2.jar json-pa
+ th-2.7.0.jar tomcat-embed-el-10.1.5.jar objenesis-3.2.jar spring-boot-s
+ tarter-logging-3.0.4.jar spring-boot-test-3.0.4.jar jackson-core-2.14.2
+ .jar javax.mail-1.6.2.jar commons-codec-1.15.jar gson-2.10.1.jar jakart
+ a.activation-api-2.1.1.jar jakarta.mail-1.0.0.jar spring-boot-autoconfi
+ gure-3.0.4.jar junit-jupiter-api-5.9.2.jar spring-boot-test-autoconfigu
+ re-3.0.4.jar jsonassert-1.5.1.jar byte-buddy-1.12.23.jar jackson-databi
+ nd-2.14.2.jar spring-context-6.0.6.jar spring-security-test-6.0.2.jar a
+ ssertj-core-3.23.1.jar micrometer-observation-1.10.4.jar spring-boot-3.
+ 0.4.jar mockito-junit-jupiter-4.8.1.jar junit-platform-engine-1.9.2.jar
+  snakeyaml-1.33.jar byte-buddy-agent-1.12.23.jar spring-boot-starter-ma
+ il-3.0.4.jar slf4j-api-2.0.6.jar opentest4j-1.2.0.jar jackson-module-pa
+ rameter-names-2.14.2.jar spring-context-support-6.0.6.jar spring-core-6
+ .0.6.jar spring-jcl-6.0.6.jar asm-9.1.jar android-json-0.0.20131108.vaa
+ din1.jar sqlite-jdbc-3.40.1.0.jar spring-webmvc-6.0.6.jar json-smart-2.
+ 4.8.jar jackson-datatype-jdk8-2.14.2.jar junit-jupiter-5.9.2.jar access
+ ors-smart-2.4.8.jar spring-web-6.0.6.jar
+
